@@ -1,9 +1,9 @@
 # Decoding EEG Signal with Complex Semantics
 Raw Dataseta and related code
 
-7 sentences datasets: https://drive.google.com/drive/folders/1c6DimlMGeOYbqRUuImb5fEy9XFL3SdHl?usp=sharing
+7 English sentences datasets: https://drive.google.com/drive/folders/1c6DimlMGeOYbqRUuImb5fEy9XFL3SdHl?usp=sharing
 
-9 phrases datasets:https://drive.google.com/drive/folders/1j979nAyAK9feiPfYU1lyG-ZozWURIIGZ?usp=sharing
+9 English phrases datasets:https://drive.google.com/drive/folders/1j979nAyAK9feiPfYU1lyG-ZozWURIIGZ?usp=sharing
 
 
 The readout is not very complete when using Python; there may be encoding or formatting problems.
