@@ -10,7 +10,6 @@ The readout is not very complete when using Python; there may be encoding or for
 
 We recommend that you use MATLAB.
 You need to install the plugin and select both data.bdf and evt.bdf when reading.
-Download the plugin at The https://drive.google.com/drive/folders/1vSg8RZJ0iVUdv5QvBLvrSFiQGyCg_AtE
-Release note has detailed installation instructions
+Download the plugin at The https://blog.csdn.net/goolete/article/details/129500501
 
 Read the labels and then crop the individual tasks to a uniform size.
